@@ -1,0 +1,7 @@
+D:\Kỳ 3\CTDL-GT_project\CTDL-GT_project\bin\Debug\CTDL-GT_project.exe.config
+D:\Kỳ 3\CTDL-GT_project\CTDL-GT_project\bin\Debug\CTDL-GT_project.exe
+D:\Kỳ 3\CTDL-GT_project\CTDL-GT_project\bin\Debug\CTDL-GT_project.pdb
+D:\Kỳ 3\CTDL-GT_project\CTDL-GT_project\obj\Debug\CTDL-GT_project.csproj.AssemblyReference.cache
+D:\Kỳ 3\CTDL-GT_project\CTDL-GT_project\obj\Debug\CTDL-GT_project.csproj.CoreCompileInputs.cache
+D:\Kỳ 3\CTDL-GT_project\CTDL-GT_project\obj\Debug\CTDL-GT_project.exe
+D:\Kỳ 3\CTDL-GT_project\CTDL-GT_project\obj\Debug\CTDL-GT_project.pdb
